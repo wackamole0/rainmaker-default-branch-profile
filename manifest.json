@@ -1,4 +1,9 @@
 {
-   "profileType": "branch",
-   "name": "rainmaker/default"
+  "type": "branch",
+  "name": "rainmaker/default-branch",
+  "profiles": [
+    {
+      "version": "1.0"
+    }
+  ]
 }
