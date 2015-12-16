@@ -1,6 +1,7 @@
 {
   "type": "branch",
   "name": "rainmaker/default-branch",
+  "downloadBaseUrl": "http://image.rainmaker-dev.org",
   "profiles": [
     {
       "version": "1.0"
